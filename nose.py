@@ -46,3 +46,5 @@ print(f"Peso: {peso} kg")
 print(f"Estatura: {estatura} m")
 print(f"IMC: {imc:.2f}")
 print(f"Clasificación: {clasificacion}")
+hols
+
